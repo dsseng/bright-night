@@ -1,0 +1,21 @@
+{
+  "name": "bright-night",
+  "displayName": "Bright night",
+  "description": "Accessible and bright dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bright night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-night-color-theme.json"
+      }
+    ]
+  }
+}
