@@ -162,7 +162,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#d5e76d"
+        "foreground": "#fff67e"
       }
     },
     {
@@ -178,7 +178,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#fde55a"
       }
     },
     {
