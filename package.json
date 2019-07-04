@@ -23,5 +23,22 @@
         "path": "./themes/bright-night-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "notes": "conventional-changelog -u -p angular",
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "conventional-changelog": "^3.1.8",
+    "release-it": "^12.3.0"
+  },
+  "release-it": {
+    "github": {
+      "release": false,
+      "changelog": "yarn notes"
+    },
+    "npm": {
+      "publish": false
+    }
   }
 }
