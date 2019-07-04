@@ -8,6 +8,7 @@ Bright night is accessible and bright dark theme. It's prefect for night coders.
 ![Python file with Bright night theme on](https://snag.gy/rsQI19.jpg)
 
 ## How can I get it?
+[VS marketplace link](https://marketplace.visualstudio.com/items?itemName=sh7dm.bright-night)
 Press `Ctrl` + `P` and enter `ext install sh7dm.bright-night` command
 
 **Enjoy coding!**
