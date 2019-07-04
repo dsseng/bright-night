@@ -118,10 +118,10 @@
     {
       "name": "Block Level Variables",
       "scope": [
-        "meta.block variable.other"
+        "variable.other.readwrite.alias"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#ebe85c"
       }
     },
     {
@@ -640,6 +640,34 @@
       ],
       "settings": {
         "foreground": "#EEFFFF"
+      }
+    },
+    {
+      "name": "this keyword",
+      "scope": [
+        "variable.language.this"
+      ],
+      "settings": {
+        "foreground": "#b8e76d",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "Properties",
+      "scope": [
+        "variable.other.property"
+      ],
+      "settings": {
+        "foreground": "#ffe862"
+      }
+    },
+    {
+      "name": "Primitive",
+      "scope": [
+        "support.type.primitive"
+      ],
+      "settings": {
+        "foreground": "#bdd6ff"
       }
     }
   ]
