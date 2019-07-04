@@ -1,13 +1,8 @@
-# README
-## This is the README for your extension "bright-night"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Bright night
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Bright night is accessible and bright dark theme. It's prefect for night coders.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## How can I get it?
+Press `Ctrl` + `P` and enter `ext install sh7dm.bright-night` command
 
-**Enjoy!**
+**Enjoy coding!**

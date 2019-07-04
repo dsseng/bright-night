@@ -4,6 +4,7 @@
   "description": "Accessible and bright dark theme. Ideal for night coders",
   "license": "MIT",
   "version": "0.0.1",
+  "publisher": "sh7dm",
   "repository": {
     "type": "git",
     "url": "https://github.com/sh7dm/bright-night.git"
