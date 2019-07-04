@@ -669,6 +669,16 @@
       "settings": {
         "foreground": "#bdd6ff"
       }
+    },
+    {
+      "name": "Markdown code",
+      "scope": [
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#bebebe"
+      }
     }
   ]
 }
