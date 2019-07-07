@@ -517,7 +517,7 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "bold italic",
         "foreground": "#f07178"
       }
     },
