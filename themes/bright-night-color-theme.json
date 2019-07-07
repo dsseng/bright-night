@@ -79,7 +79,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#c146ff"
+        "foreground": "#d47eff"
       }
     },
     {
@@ -121,7 +121,7 @@
         "variable.other.readwrite.alias"
       ],
       "settings": {
-        "foreground": "#ebe85c"
+        "foreground": "#faf73c"
       }
     },
     {
@@ -162,7 +162,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#fff67e"
+        "foreground": "#fff899"
       }
     },
     {
