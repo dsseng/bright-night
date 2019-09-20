@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "SASS selector Comma",
+      "name": "SASS selector comma",
       "scope": [
         "comment.punctuation.comma.sass",
       ],
