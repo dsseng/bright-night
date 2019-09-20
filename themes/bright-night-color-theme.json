@@ -21,6 +21,16 @@
       }
     },
     {
+      "name": "Comment Comma",
+      "scope": [
+        "comment.punctuation.comma.sass",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#aefc9f"
+      }
+    },
+    {
       "name": "Variables",
       "scope": [
         "variable",
