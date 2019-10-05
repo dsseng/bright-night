@@ -335,6 +335,16 @@
       }
     },
     {
+      "name": "Regular Expressions Keywords",
+      "scope": [
+        "keyword.control.anchor.regexp",
+        "keyword.operator.quantifier.regexp"
+      ],
+      "settings": {
+        "foreground": "#aefc9f"
+      }
+    },
+    {
       "name": "Escape Characters",
       "scope": [
         "constant.character.escape"
