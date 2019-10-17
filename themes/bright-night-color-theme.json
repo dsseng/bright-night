@@ -151,6 +151,16 @@
       }
     },
     {
+      "name": "String, Unquoted",
+      "scope": [
+        "string",
+        "meta.group.braces.curly constant.other.object.key.js string.unquoted.js"
+      ],
+      "settings": {
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
       "name": "String, Symbols, Inherited Class, Markup Heading",
       "scope": [
         "string",
